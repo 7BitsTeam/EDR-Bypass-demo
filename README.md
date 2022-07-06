@@ -31,4 +31,34 @@ Some demos to bypass EDRs or AVs by 78itsT3@m
 
   c++代码，使用SysWhispers3的jump方法，绕过对syscall的静态检查
 
+### demo 6 为《红队开发基础-基础免杀（三）》的内容
+
+- demo6:
+
+  c++代码，修改RefleXXion使其对user32.dll进行unhook。
+
+### chapter4 demo1-4为《红队开发基础-基础免杀（四）》的内容
+
+下面的例子均是忽略流量特征的情况：
+
+- demo1：base64+xor混淆shellcode，过360，火绒。
+
+![](/images/360.png)
+
+![](/images/hr.png)
+
+- demo2：加强了静态混淆，过definder，麦咖啡。
+
+![](/images/def.png)
+
+![](/images/mcafee.png)
+
+- demo3：加入syscall及apc调用方式，过卡巴斯基edr
+
+![](/images/kar.png)
+
+- demo4：加入beacon的内存加密，过eset edr
+
+![](/images/eset.png)
+
 

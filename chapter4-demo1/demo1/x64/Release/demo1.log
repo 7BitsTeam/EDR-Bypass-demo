@@ -1,0 +1,10 @@
+﻿  base64.cpp
+  demo1.cpp
+C:\Users\Admin\Desktop\demo1\demo1\demo1.cpp(28,10): warning C4244: “=”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+C:\Users\Admin\Desktop\demo1\demo1\demo1.cpp(33,28): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+C:\Users\Admin\Desktop\demo1\demo1\demo1.cpp(38,16): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  demo1.vcxproj -> C:\Users\Admin\Desktop\demo1\x64\Release\demo1.exe

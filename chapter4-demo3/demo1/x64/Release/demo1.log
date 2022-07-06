@@ -1,0 +1,12 @@
+﻿  demo1.cpp
+E:\last\demo3\demo1\header.h(6,67): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“void *”
+E:\last\demo3\demo1\demo1.cpp(29,10): warning C4244: “=”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(34,28): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(39,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\last\demo3\demo1\demo1.cpp(386,32): error C2026: 字符串太大，已截断尾部字符
+E:\last\demo3\demo1\demo1.cpp(411,58): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(412,16): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(417,3): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(416,3): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo3\demo1\demo1.cpp(425,20): warning C4018: “<=”: 有符号/无符号不匹配
+E:\last\demo3\demo1\demo1.cpp(452,20): warning C4018: “<”: 有符号/无符号不匹配

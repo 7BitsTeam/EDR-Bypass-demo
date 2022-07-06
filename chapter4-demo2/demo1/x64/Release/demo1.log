@@ -1,0 +1,19 @@
+﻿  demo1.cpp
+E:\last\demo1\demo1\header.h(6,67): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“void *”
+E:\last\demo1\demo1\demo1.cpp(29,10): warning C4244: “=”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(34,28): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(39,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\last\demo1\demo1\demo1.cpp(139,58): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(140,16): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(145,3): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(144,3): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\last\demo1\demo1\demo1.cpp(153,20): warning C4018: “<=”: 有符号/无符号不匹配
+E:\last\demo1\demo1\demo1.cpp(180,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\last\demo1\demo1\demo1.cpp(179,12): warning C4101: “cmm_i”: 未引用的局部变量
+E:\last\demo1\demo1\demo1.cpp(175,18): warning C4101: “oldProt”: 未引用的局部变量
+  正在生成代码
+  已完成代码的生成
+  1 of 225 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  demo1.vcxproj -> E:\last\demo1\x64\Release\demo1.exe
